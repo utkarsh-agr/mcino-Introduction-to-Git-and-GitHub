@@ -1,0 +1,11 @@
+HP@Utkarsh MINGW64 ~/Documents/ibm/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+HP@Utkarsh MINGW64 ~/Documents/ibm/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo
+Updating ad95b0a..7a7040b
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
